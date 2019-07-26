@@ -1,0 +1,15 @@
+{
+    "name": "node_dz",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node main.js"
+    },
+    "author": "ya",
+    "license": "ISC",
+    "dependencies": {
+        "uuid4": "^1.1.4"
+    }
+}
